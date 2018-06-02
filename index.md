@@ -6,7 +6,8 @@
 2. 打开谷歌Chrome浏览器，在地址栏中输入：chrome://extensions/后，如下图开启开发者模式。
 3. 点击“加载已解压的扩展程序”，找到第一步解压的文件，确定后即安装成功。
 ![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/add-chrome-extension.png)
-4. 打开新安装的浏览器扩展，创建钱包。（充值到钱包）
+4. 打开新安装的浏览器扩展，创建钱包。记得将钱包文件下载到本地，文件名即账户地址。（此后可以将NAS充值到该地址）
+![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/create-wallet.png)
 5. [开始游戏](https://xingxiaoxiong.github.io/nebulasmonopoly)。
 
 ### 区块链大富翁游戏规则
