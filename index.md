@@ -1,5 +1,7 @@
 ## 区块链大富翁游戏规则 (English Below)
 
+### [直接开始游戏](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/)
+
 ### 游戏安装说明
 
 1. [点击下载](https://github.com/nebulasio/WebExtensionWallet)星云链的Chrome钱包扩展程序后解压到本地。
@@ -8,7 +10,7 @@
 ![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/add-chrome-extension.png)
 4. 打开新安装的浏览器扩展，创建钱包。记得将钱包文件下载到本地，文件名即账户地址。（此后可以将NAS充值到该地址）
 ![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/create-wallet.png)
-5. [开始游戏](https://xingxiaoxiong.github.io/nebulasmonopoly)。
+5. [开始游戏](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/)。
 
 ### 区块链大富翁游戏规则
 - 玩家第一次加入游戏时需要输入账户地址，该地址需要与钱包地址一致。
