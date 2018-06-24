@@ -19,7 +19,7 @@
 - 游戏中会随机生成宝藏并放置到一个城市。玩家需要到达该城市后才能领取宝藏。
 
 ### 图例
-![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/legendchinese.jpg)
+![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/legendchinese.png)
 
 ### [Start game immediately](https://xingxiaoxiong.github.io/nebulasmonopoly/)
 
@@ -38,5 +38,5 @@ For example, if the price of a city is initially 100, a player pays 100 to own i
 - Treasures will be generated and randomly placed among cities. Players need to reach a city to pick up the treasure in that city.
 
 ### Legends
-![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/legendenglish.jpg)
+![](https://xingxiaoxiong.github.io/BlockchainMonopolyOnNebulasTest/img/legendenglish.png)
 
